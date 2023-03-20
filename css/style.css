@@ -151,3 +151,13 @@ a{
     color: #525C60;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* 'about' page styles */
+.banner{
+    width: 100%;
+    margin-bottom: 182px;
+}
+.image{
+    margin: 0 auto;
+    display: block;
+}
