@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    background-color: #F9F8F8;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    
+}
+
+/* header styles */
+.nav-a {
+    font-family: 'Roboto', sans-serif;
+    color: #274C5B;
+
+    font-size: 20px;
+}
+.nav{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25px;
+    font-size: 20px;
+    color: #274C5B;
+    font-family: 'Roboto';
+    font-weight: 700;
+    
+}
+
+.logo{
+    vertical-align: middle;
+    margin-right: 150px;
+}
+
+.color{
+    height: 192px;
+    background-color: white;
+    padding: 69px 0 69px 162px;
+}
+/* box 1 styles */
+.main-box{
+    width: 1400px;
+    height: 1050px;
+    margin: 50px auto 0 auto;
+}
+.box-1{
+    width: 671px;
+    display: inline-block;
+    vertical-align: top;
+}
+.text-1{
+    width: 260px;
+    height: 49px;
+    font-family: 'Yellowtail';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 49px;
+    color: #7EB693;
+    margin-bottom: 6px;
+}
+.text-2{
+    width: 524px;
+    font-size: 50px;
+    color: #274C5B;
+    font-family: 'Roboto';
+    font-weight: 800;
+    margin-bottom: 25px;
+}
+.text-3{
+    font-size: 18px;
+    width: 671px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #525C60;
+    margin-bottom: 36px;
+}
+.mini-box-1{
+    width: 339px;
+    height: 81px;
+    background-color: #ECECEC;
+    padding: 29px 0 29px 27px;
+    margin-bottom: 12px;
+    
+}
+.text-1-1{
+    display: inline-block;
+    vertical-align: middle;
+    color: #274C5B;
+    font-family: 'Roboto';
+    font-size: 20px;
+    
+    
+}
+.icon{
+    vertical-align: middle;
+}
+.box-text{
+    padding-left: 60px;
+    font-size: 18px;
+    width: 444px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #525C60;
+    margin-bottom: 20px;
+
+}
+
+/* box 2 styles */
+.box-2{
+    width: 600px;
+    display: inline-block;
+    margin-left: 47px;
+}
+
+/* box 3 styles */
+.box-3{
+    width: 1118px;
+    margin: 91px 0 0 141px;
+    
+}
+.card{
+    width: 257px;
+    height: 335px;
+    display: inline-block;
+    background-color: white;
+    margin-right: 30px;
+    
+    
+}
+.card-4{
+    width: 257px;
+    height: 335px;
+    display: inline-block;
+    background-color: white;
+}
+.card-text-1{
+    font-size: 25px;
+    padding-left: 22px;
+    padding-top: 29px;
+    font-family: 'Roboto';
+    color: #274C5B;
+}
+.card-text-2{
+    font-size: 18px;
+    padding-left: 36px;
+    padding-top: 20px;
+    width: 184px;
+    text-align: center;
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+}
